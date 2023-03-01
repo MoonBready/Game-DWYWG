@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+/Game-DWYWG/Library/
+/Game-DWYWG/Temp/
+/Game-DWYWG/Logs/
